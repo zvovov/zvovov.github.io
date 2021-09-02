@@ -3,9 +3,9 @@ title: I'll email you when...
 tag: [python, web-scraping]
 excerpt: "> Python script to collect and send university exam results on email"
 header:
-  teaser: /assets/images/high_score_netflix.jpg
-  overlay_image: /assets/images/high_score_netflix.jpg
-  overlay_filter: 0.75 
+  teaser: /assets/images/ipu_result_notify.png
+  overlay_image: /assets/images/ipu_result_notify.png
+  overlay_filter: 0.9
   actions:
     - label: "Get IPU-Result-Notify"
       url: "https://github.com/zvovov/ipu-result-notify"
@@ -24,7 +24,7 @@ Interrupts, not polling. Well, in fact, it is polling, only it isn't me who has 
 
 # Sit back and relax
 
-![Email from IPU Result Notify](http://i.imgur.com/VVx48V4.jpg "Email from IPU Result Notify")
+![Email from IPU Result Notify](/assets/images/ipu_result_notify.png "Email from IPU Result Notify")
 
 # What's in it for you?
 

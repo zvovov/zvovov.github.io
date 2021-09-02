@@ -24,11 +24,11 @@ description              : "Applied machine learning concepts and experiments"
 url                      : "https://zvovov.github.io"
 baseurl                  : # ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # "/assets/images/essential_ml.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/essential_ml.png"
+teaser                   : "/assets/images/essential_ml.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # "/assets/images/essential_ml.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 100
+words_per_minute         : 120
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
