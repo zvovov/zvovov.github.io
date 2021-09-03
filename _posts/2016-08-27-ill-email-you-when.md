@@ -1,7 +1,7 @@
 ---
 title: I'll email you when...
 tag: [python, web-scraping]
-excerpt: "> Python script to collect and send university exam results on email"
+excerpt: "Python script to collect and send university exam results on email"
 header:
   teaser: /assets/images/ipu_result_notify.png
   overlay_image: /assets/images/ipu_result_notify.png

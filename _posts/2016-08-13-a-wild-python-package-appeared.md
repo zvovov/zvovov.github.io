@@ -1,7 +1,7 @@
 ---
 title: A wild python package appeared
 tag: [python, web-scraping]
-excerpt: "> Find and listen to songs featured in TV shows"
+excerpt: "Find and listen to songs featured in TV shows"
 header:
   teaser: /assets/images/pypi.png
   overlay_image: /assets/images/pypi.png
