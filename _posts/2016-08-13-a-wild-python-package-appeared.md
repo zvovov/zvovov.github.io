@@ -1,6 +1,6 @@
 ---
 title: A wild python package appeared
-tag: [python, web-scraping]
+tag: [python, experiment]
 excerpt: "Find and listen to songs featured in TV shows"
 header:
   teaser: /assets/images/pypi.png

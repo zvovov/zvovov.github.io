@@ -1,6 +1,6 @@
 ---
 title: WhatsApp CLI
-tag: [python, selenium]
+tag: [python, experiment]
 excerpt: "Send/receive text messages to contacts and groups, switching between different chats, all from command line"
 header:
   teaser: /assets/images/whatsapp.png
