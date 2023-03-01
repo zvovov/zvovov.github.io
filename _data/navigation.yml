@@ -2,3 +2,5 @@
 main:
   - title: "All posts"
     url: /all/
+  - title: "Blog"
+    url: /blog/
