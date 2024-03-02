@@ -8,8 +8,6 @@ header:
   overlay_filter: 0.9
 ---
 
-# Methods for Causal Inference
-
 ## Introduction
 
 **Correlation is not causation**
